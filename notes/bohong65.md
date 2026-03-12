@@ -15,13 +15,20 @@ Econ Phd candidate
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-12
+<!-- DAILY_CHECKIN_2026-03-12_START -->
+今日纸质笔记梳理了微观前5章的重点概念，下一步整理计算
+<!-- DAILY_CHECKIN_2026-03-12_END -->
+
 # 2026-03-11
 <!-- DAILY_CHECKIN_2026-03-11_START -->
+
 今日微观经济学已使用纸质笔记
 <!-- DAILY_CHECKIN_2026-03-11_END -->
 
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 
 ### 第5篇 重大事件、国际调整和前沿课题
 
@@ -57,6 +64,7 @@ Econ Phd candidate
 
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 
 
 ### 第4篇 行为的基础
@@ -124,6 +132,7 @@ Econ Phd candidate
 
 
 
+
 ### 第3篇 首要的几个模型
 
 第9章 收入与支出
@@ -166,6 +175,7 @@ Econ Phd candidate
 
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
+
 
 
 
@@ -225,6 +235,7 @@ Econ Phd candidate
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 

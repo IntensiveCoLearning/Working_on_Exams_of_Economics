@@ -15,19 +15,27 @@ Econ Phd candidate
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-18
+<!-- DAILY_CHECKIN_2026-03-18_START -->
+今日勾画市场结构理论
+<!-- DAILY_CHECKIN_2026-03-18_END -->
+
 # 2026-03-15
 <!-- DAILY_CHECKIN_2026-03-15_START -->
+
 昨日考试，今日刷题
 <!-- DAILY_CHECKIN_2026-03-15_END -->
 
 # 2026-03-13
 <!-- DAILY_CHECKIN_2026-03-13_START -->
 
+
 今日宏观纸质笔记已更新
 <!-- DAILY_CHECKIN_2026-03-13_END -->
 
 # 2026-03-12
 <!-- DAILY_CHECKIN_2026-03-12_START -->
+
 
 
 今日纸质笔记梳理了微观前5章的重点概念，下一步整理计算
@@ -38,11 +46,13 @@ Econ Phd candidate
 
 
 
+
 今日微观经济学已使用纸质笔记
 <!-- DAILY_CHECKIN_2026-03-11_END -->
 
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 
 
 
@@ -81,6 +91,7 @@ Econ Phd candidate
 
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 
 
 
@@ -154,6 +165,7 @@ Econ Phd candidate
 
 
 
+
 ### 第3篇 首要的几个模型
 
 第9章 收入与支出
@@ -196,6 +208,7 @@ Econ Phd candidate
 
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
+
 
 
 
@@ -258,6 +271,7 @@ Econ Phd candidate
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 
